@@ -20,7 +20,9 @@ public class Object {
 
     }
 
+    public Object() {
 
+    }
 
 
     public int getX() {
